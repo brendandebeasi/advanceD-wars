@@ -26,4 +26,3 @@ TODO
 Known Bugs
 ==========
 * Mouse event doesn't fire when clicking on units, only space
-* Space event fires on first press but only fires every seconds click after that
