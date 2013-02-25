@@ -22,3 +22,8 @@ TODO
 * Create website for people to get matched up and play against each other
 * Add support for touch events / mobile devices (http://impactjs.com/documentation/ios/overview)
 * Polish
+
+Known Bugs
+==========
+* Mouse event doesn't fire when clicking on units, only space
+* Space event fires on first press but only fires every seconds click after that
