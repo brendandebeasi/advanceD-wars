@@ -3,6 +3,10 @@ AdvanceD Wars
 
 A turn-based strategy game built with impactJS. A "Brother's DeBeasi" game.
 
+Nightly Build
+=============
+http://aw.debea.si/
+
 Developer Resources 
 =====================
 
